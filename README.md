@@ -180,8 +180,6 @@ assets/                 # Recursos Estáticos
 Este é um **Projeto de Fã** sem fins lucrativos.
 Todo o código fonte é livre para fins educacionais.
 
--   **Desenvolvimento**: AliceDeSa
--   **Conceito & Referencias**: [Riot Games](https://www.riotgames.com/). *Tellstones* é uma marca registrada da Riot Games. Este projeto não é afiliado à Riot Games.
-
 ---
 *Feito com 💙 e JavaScript.*
+
